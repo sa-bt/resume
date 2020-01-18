@@ -1,0 +1,12 @@
+.fullPage{
+    max-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex: auto;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    justify-content: center;
+    background-color: brown;
+    align-items: center;
+}

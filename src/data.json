@@ -1,0 +1,55 @@
+{
+  "title": "سید احمد بخشیان تیزابی",
+  "subTitle": "برنامه نویس php, Laravel",
+  "links": {
+    "Gmail": "http://bakhshianseyedahmad@gmail.com",
+    "Site": "http://sa-bt.ir",
+    "twitter": "http://twitter.com/sabt"
+  },
+  "section": [
+    {
+      "title": "من سید احمد بخشیان هستم ",
+      "content": "من سید احمد بخشیان هستم متولد 1368 از شهرستان کوهدشت استان لرستان. بنده دارای مدرک کارشناسی ارشد مهندسی نرم افزار از دانشگاه غیر انتفاعی پویش قم هستم و در حال حاضر به برنامه نویسی سمت سرور PHP/LARAVEL مشغول هستم.",
+      "img": "./images/sabt.jpg"
+    },
+    {
+      "title": "توانایی ها/ مهارت ها",
+      "items": [
+        {
+          "item": "PHP",
+          "img": "../../images/sabt.png"
+        },
+        {
+          "item": "HTML",
+          "img": "../../images/sabt.png"
+        },
+        {
+          "item": "LARAVEL",
+          "img": "./images/sabt.png"
+        },
+        {
+          "item": "JQUERY",
+          "img": "./images/sabt.png"
+        },
+        {
+          "item": "AJAX",
+          "img": "../../images/sabt.png"
+        },
+        {
+          "item": "Bootstrap",
+          "img": "../../images/sabt.png"
+        },
+        {
+          "item": "React",
+          "img": "../../images/sabt.png"
+        }
+      ]
+    }
+
+  ],
+
+  "icons":{
+    "Down": "../../images/down.png",
+    "Up": "../../images/up.png"
+}
+}
